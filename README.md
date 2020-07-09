@@ -10,7 +10,7 @@ Pergunte-me sobre Azure e asuntos relacionados a tecnologia em geral, pois será
 
 ### 📫 How to reach me?
 
-Você pode encontrar através dos links disponíveis logo abaixo da minha foto de perfil do GitHub.
+Você pode encontrar acessando meu 📝 [Blog](https://ericsonf.com.br), através do meu 🐤 [Twitter](https://twitter.com/_ericsonf) ou me enviando um ✉ [E-Mail](mailto:ericson@ericsonf.com.br).
 
 <!--
 **ericsonf/ericsonf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
