@@ -5,7 +5,7 @@
 - 🚀 I'm currently a Microsoft MVP on Azure category
 - 🎤 I'm a host/organizer of the [Podcast DevShow](https://devshow.com.br/)
 - 👥 I'm an organizer of the [Meetup Campinas .NET](https://www.meetup.com/pt-BR/campinasdotnet)
-- 🐤 I’m on [Twitter](https://twitter.com/_ericsonf)
+- 🐤 I’m on [Twitter](https://twitter.com/ericsonf)
 - 🌱 I've a technical [Blog](https://ericsonf.com.br)
 - 💬 Ask me about .NET and Azure
 
